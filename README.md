@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 ![python](images/python.svg)
 ![docker](images/docker.svg)
+<code><img title="HTML" height="25" src="images/html5.svg"></code>
 [![](https://visitcount.itsvg.in/api?id=kennyagz&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
