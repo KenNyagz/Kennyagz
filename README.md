@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <code><img title="Linux" height="25" src="images/linux.png"></code>
 <code><img title="CSS" height="25" src="images/css.svg"></code>
 <code><img title="HTML" height="25" src="images/html5.svg"></code>
-<code><img title="Javascript" height="25" src="images/js.svg"></code>
+<code><img title="Javascript" height="25" src="images/javascript.svg"></code>
 
 
 
