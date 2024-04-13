@@ -21,4 +21,5 @@ Here are some ideas to get you started:
 <code><img title="Docker" height="25" src="images/docker.svg"></code>
 <code><img title="CSS" height="25" src="images/css.svg"></code>
 <code><img title="HTML" height="25" src="images/html5.svg"></code>
+
 [![](https://visitcount.itsvg.in/api?id=kennyagz&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
