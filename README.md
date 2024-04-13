@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 📫 kennyagz681@gmail.com
 
-![css.svg](images/python.svg)
+![python](images/python.svg)
+![docker](images/docker.svg)
 [![](https://visitcount.itsvg.in/api?id=kennyagz&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
