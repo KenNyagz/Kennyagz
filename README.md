@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![](https://visitcount.itsvg.in/api?id=kennyagz&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
