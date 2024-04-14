@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 <code><img title="HTML" height="25" src="images/html5.svg"></code>
 <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
 <code><img title="Jquery" height="25" src="images/jquery.svg"></code>
+<code><img title="JSON" height="25" src="images/json.svg"></code>
 <code><img title="Puppet" height="25" src="images/puppet.png"></code>
 
 
