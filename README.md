@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 <code><img title="Flask" height="25" src="images/flask.png"></code>
 <code><img title="Django" height="25" src="images/django.png"></code>
 <code><img title="Docker" height="25" src="images/docker.svg"></code>
+<code><img title="Nginx" height="25" src="images/nginx.svg"></code>
 <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
 <code><img title="PHP" height="25" src="images/php.svg"></code>
 <code><img title="Git" height="24" src="images/git.svg"></code>
@@ -28,6 +29,7 @@ Here are some ideas to get you started:
 <code><img title="CSS" height="25" src="images/css.svg"></code>
 <code><img title="HTML" height="25" src="images/html5.svg"></code>
 <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+<code><img title="Jquery" height="25" src="images/jquery.svg"></code>
 
 
 
