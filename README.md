@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 📫 kennyagz681@gmail.com
 
+##Techonologies I am comfortable with...
+
 <code><img title="C" height="25" src="images/c.svg"></code>
 <code><img title="PYthon" height="25" src="images/python.svg"></code>
 <code><img title="Flask" height="25" src="images/flask.png"></code>
