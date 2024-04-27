@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 <code><img title="Nginx" height="25" src="images/nginx.svg"></code>
 <code><img title="Apache" height="25" src="images/apache.svg"></code>
 <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+<code><img title="MongoDB" height="25" src="images/mongo.svg"></code>
 <code><img title="PHP" height="25" src="images/php.svg"></code>
 <code><img title="Git" height="24" src="images/git.svg"></code>
 <code><img title="GitHub" height="25" src="images/github.svg"></code>
