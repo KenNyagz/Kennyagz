@@ -38,6 +38,13 @@ Here are some ideas to get you started:
 <code><img title="JSON" height="25" src="images/json.svg"></code>
 <code><img title="React" height="25" src="images/react.svg"></code>
 <code><img title="Puppet" height="25" src="images/puppet.png"></code>
+<!--
+<code><img title="Jest" height="25" src="images/.png"></code>
+<code><img title="Unittest" height="25" src="images/.png"></code>
+<code><img title="Doctest" height="25" src="images/.png"></code>
+<code><img title="Heroku Deployment" height="25" src="images/.png"></code>
+<code><img title="Postman" height="25" src="images/.png"></code>
+-->
 
 
 
