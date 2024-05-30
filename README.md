@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <code><img title="Doctest" height="25" src="images/.png"></code>
 <code><img title="Heroku Deployment" height="25" src="images/.png"></code>
 <code><img title="Postman" height="25" src="images/.png"></code>
+<code><img title="Datadog" height="25" src="images/.png"></code>
 -->
 
 
