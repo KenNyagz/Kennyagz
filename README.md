@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <code><img title="CSS" height="25" src="images/css.svg"></code>
 <code><img title="HTML" height="25" src="images/html5.svg"></code>
 <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+<code><img title="Typescript" height="25" src="images/typescript.svg"></code>
 <code><img title="Jquery" height="25" src="images/jquery.svg"></code>
 <code><img title="JSON" height="25" src="images/json.svg"></code>
 <code><img title="React" height="25" src="images/react.svg"></code>
