@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ## Techonologies I am comfortable with...
 
 <code><img title="C" height="25" src="images/c.svg"></code>
+<code><img title="PHP" height="25" src="images/php.svg"></code>
 <code><img title="PYthon" height="25" src="images/python.svg"></code>
 <code><img title="Flask" height="25" src="images/flask.png"></code>
 <code><img title="Django" height="25" src="images/django.png"></code>
