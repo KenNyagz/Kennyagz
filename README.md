@@ -42,7 +42,6 @@ Here are some ideas to get you started:
 <code><img title="Postman" height="25" src="images/postman.svg"></code>
 
 <!--
-<code><img title="PHP" height="25" src="images/php.svg"></code>
 <code><img title="Jest" height="25" src="images/.png"></code>
 <code><img title="Unittest" height="25" src="images/.png"></code>
 <code><img title="Doctest" height="25" src="images/.png"></code>
