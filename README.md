@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 kennyagz681@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
@@ -39,7 +38,6 @@ Here are some ideas to get you started:
 <code><img title="JSON" height="25" src="images/json.svg"></code>
 <code><img title="React" height="25" src="images/react.svg"></code>
 <code><img title="Puppet" height="25" src="images/puppet.png"></code>
-<code><img title="Postman" height="25" src="images/postman.svg"></code>
 
 <!--
 <code><img title="Jest" height="25" src="images/.png"></code>
@@ -47,6 +45,9 @@ Here are some ideas to get you started:
 <code><img title="Doctest" height="25" src="images/.png"></code>
 <code><img title="Heroku Deployment" height="25" src="images/.png"></code>
 <code><img title="Datadog" height="25" src="images/.png"></code>
+-->
+<!--
+<code><img title="Postman" height="25" src="images/postman.svg"></code>
 -->
 
 
