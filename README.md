@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Kenneth. You can reach me via:
 📫 kennyagz681@gmail.com
 
 ## Techonologies I am comfortable with...
@@ -38,6 +39,7 @@ Here are some ideas to get you started:
 <code><img title="JSON" height="25" src="images/json.svg"></code>
 <code><img title="React" height="25" src="images/react.svg"></code>
 <code><img title="Puppet" height="25" src="images/puppet.png"></code>
+<code><img title="WebRTC" height="25" src="images/webrtc.png"></code>
 
 <!--
 <code><img title="Jest" height="25" src="images/.png"></code>
