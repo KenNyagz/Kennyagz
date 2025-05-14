@@ -40,6 +40,7 @@ My name is Kenneth. You can reach me via:
 <code><img title="React" height="25" src="images/react.svg"></code>
 <code><img title="Puppet" height="25" src="images/puppet.png"></code>
 <code><img title="Selenium" height="25" src="images/selenium.png"></code>
+<code><img title="Selenium" height="25" src="images/amazonwebservices-original-wordmark.svg"></code>
 
 
 <!--
