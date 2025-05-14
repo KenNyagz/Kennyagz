@@ -18,6 +18,7 @@ My name is Kenneth. You can reach me via:
 
 ## Techonologies I am comfortable with...
 
+<code><img title="Selenium" height="45" src="images/amazonwebservices-original-wordmark.svg"></code>
 <code><img title="C" height="25" src="images/c.svg"></code>
 <code><img title="PHP" height="25" src="images/php.png"></code>
 <code><img title="PYthon" height="25" src="images/python.svg"></code>
@@ -40,8 +41,6 @@ My name is Kenneth. You can reach me via:
 <code><img title="React" height="25" src="images/react.svg"></code>
 <code><img title="Puppet" height="25" src="images/puppet.png"></code>
 <code><img title="Selenium" height="25" src="images/selenium.png"></code>
-<code><img title="Selenium" height="45" src="images/amazonwebservices-original-wordmark.svg"></code>
-
 
 <!--
 <code><img title="Jest" height="25" src="images/.png"></code>
