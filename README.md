@@ -18,7 +18,7 @@ My name is Kenneth. You can reach me via:
 
 ## Techonologies I am comfortable with...
 
-<code><img title="Selenium" height="45" src="images/amazonwebservices-original-wordmark.svg"></code>
+<code><img title="Selenium" height="45" src="images/amazonwebservices-original-wordmark.svg" style="background-color:white"></code>
 <code><img title="C" height="25" src="images/c.svg"></code>
 <code><img title="PHP" height="25" src="images/php.png"></code>
 <code><img title="PYthon" height="25" src="images/python.svg"></code>
