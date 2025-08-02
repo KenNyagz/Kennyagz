@@ -25,6 +25,7 @@ My name is Kenneth. You can reach me via:
 <code><img title="Flask" height="25" src="images/flask.png"></code>
 <code><img title="Django" height="25" src="images/django.png"></code>
 <code><img title="Docker" height="25" src="images/docker.svg"></code>
+<code><img title="Kubernetes" height="25" src="images/kubernetes.svg"></code>
 <code><img title="Nginx" height="25" src="images/nginx.svg"></code>
 <code><img title="Apache" height="25" src="images/apache.svg"></code>
 <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
