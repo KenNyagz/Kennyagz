@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Kenneth. You can reach me via:
-📫 kennyagz681@gmail.com
+Hi, I'm Kenneth.
+A passionate software engineer with a deep appreciation for engineering in all its forms. 
+I specialize in backend development and cloud solutions, building scalable and reliable systems.
 
-## Techonologies I am comfortable with...
+
+## Here are some of the technologies I am comfortable with...
 
 <code><img title="AWS" height="35" src="images/amazonwebservices-original-wordmark.svg"></code>
 <code><img title="C" height="25" src="images/c.svg"></code>
@@ -56,6 +58,7 @@ My name is Kenneth. You can reach me via:
 -->
 
 
-
+You can reach me via:
+📫 kennyagz681@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=kennyagz&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
