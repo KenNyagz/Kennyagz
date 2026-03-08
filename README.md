@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Kenneth.
+I'm Kenneth.
 A passionate software engineer with a deep appreciation for engineering in all its forms. 
 I specialize in backend development and cloud solutions, building scalable and reliable systems.
 
