@@ -63,7 +63,7 @@ I specialize in backend development and cloud solutions, building scalable and r
 You can reach me via:
 📫 kennyagz681@gmail.com
 
-<code><img title="Docker" height="25" src="images/gifs/chicken.gif"></code>  
-<code><img title="Docker" height="25" src="images/gifs/horse.gif"></code>  
-<code><img title="Docker" height="25" src="images/gifs/panda.gif"></code>  
-<code><img title="Docker" height="25" src="images/gifs/clippy.gif"></code>  
+<code><img title="Docker" height="25" src="images/gifs/chicken.gif"></code>
+<code><img title="Docker" height="25" src="images/gifs/horse.gif"></code>
+<code><img title="Docker" height="25" src="images/gifs/panda.gif"></code>
+<code><img title="Docker" height="25" src="images/gifs/clippy.gif"></code>
