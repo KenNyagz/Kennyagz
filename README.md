@@ -63,8 +63,6 @@ I specialize in backend development and cloud solutions, building scalable and r
 You can reach me via:
 📫 kennyagz681@gmail.com
 
-[![](https://visitcount.itsvg.in/api?id=kennyagz&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
-
 <code><img title="Docker" height="25" src="images/gifs/chicken.gif"></code>  
 <code><img title="Docker" height="25" src="images/gifs/horse.gif"></code>  
 <code><img title="Docker" height="25" src="images/gifs/panda.gif"></code>  
