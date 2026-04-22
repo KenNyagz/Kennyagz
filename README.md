@@ -64,7 +64,7 @@ You can reach me via:
 📫 kennyagz681@gmail.com
 
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img height="25" src="images/gifs/chicken.gif" />
+  <img height="25" src="images/gifs/chicken.gif" /> <br/>
   <img height="25" src="images/gifs/horse.gif" />
   <img height="25" src="images/gifs/panda.gif" />
   <img height="25" src="images/gifs/clippy.gif" />
