@@ -65,7 +65,7 @@ You can reach me via:
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <img height="25" src="images/gifs/chicken.gif" /> <br/>
-  <img height="25" src="images/gifs/horse.gif" />
-  <img height="25" src="images/gifs/panda.gif" />
-  <img height="25" src="images/gifs/clippy.gif" />
+  <img height="25" src="images/gifs/horse.gif" /> <br/>
+  <img height="25" src="images/gifs/panda.gif" /> <br/>
+  <img height="25" src="images/gifs/clippy.gif" /> <br/>
 </div>
