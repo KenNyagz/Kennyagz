@@ -65,7 +65,7 @@ You can reach me via:
 
 [![](https://visitcount.itsvg.in/api?id=kennyagz&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
-<code><img title="Docker" height="25" src="images/gifs/chicken.gif"></code>
-<code><img title="Docker" height="25" src="images/gifs/horse.gif"></code>
-<code><img title="Docker" height="25" src="images/gifs/panda.gif"></code>
-<code><img title="Docker" height="25" src="images/gifs/clippy.gif"></code>
+<code><img title="Docker" height="25" src="images/gifs/chicken.gif"></code>  
+<code><img title="Docker" height="25" src="images/gifs/horse.gif"></code>  
+<code><img title="Docker" height="25" src="images/gifs/panda.gif"></code>  
+<code><img title="Docker" height="25" src="images/gifs/clippy.gif"></code>  
